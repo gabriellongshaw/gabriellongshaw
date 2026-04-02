@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-I am **Gabriel Longshaw**, a Christian with an interest in Web Development.
+I am **Gabriel Longshaw**, a Christian with an interest in Website Development.
 
-[Website](https://www.gabriellongshaw.co.uk)
+[www.gabriellongshaw.co.uk](https://www.gabriellongshaw.co.uk)
